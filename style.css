@@ -1,0 +1,61 @@
+body {
+    background-image: url("badr.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+h1 {
+    text-align: center;
+    padding: 15px 25px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+
+
+}
+
+h1:hover {
+    color: black;
+    padding: 15px 25px;
+    background-color: white;}
+h2{color:white;
+    font-size: xx-large;
+    text-align: center;
+    padding: 10px;
+    background-color:black;
+}
+h2:hover{color: black;
+         padding: 10px;
+         background-color: white;
+}
+
+a {color: red;
+   font-size: 20px; 
+   padding: 10px;
+   background-color: cyan;
+   margin-right: 30px;
+   text-decoration: none;
+   
+}
+footer.se{text-align: center;
+       color: cyan;
+       font-size: x-large;
+
+}
+footer.ne{padding: 5px;
+          background-color: black;
+          color: white;
+          text-align: center;
+
+}
+
+a:hover {
+    color: cyan;
+    padding: 10px;
+    background-color: red;
+}
+p.center{ color: white;
+          text-align: center; 
+          font-size: larger;   }
